@@ -4,7 +4,7 @@
   <subtitle><![CDATA[分享产品、设计、技术文章]]></subtitle>
   <link href="http://blog.workor.com/atom.xml" rel="self"/>
   <link href="http://blog.workor.com"/>
-  <updated>2013-09-01T07:15:17.454Z</updated>
+  <updated>2013-09-08T04:50:25.909Z</updated>
   <id>http://blog.workor.com/</id>
   <author>
     <name><![CDATA[Workor]]></name>
@@ -16,7 +16,7 @@
     <link href="http://blog.workor.com/2013/08/31/the-future-of-telecommuting/"/>
     <id>http://blog.workor.com/2013/08/31/the-future-of-telecommuting/</id>
     <published>2013-08-31T05:20:05.000Z</published>
-    <updated>2013-09-01T03:01:40.000Z</updated>
+    <updated>2013-09-08T04:49:55.000Z</updated>
     <content type="html"><![CDATA[<p style="text-align:center"><img src="http://ww4.sinaimg.cn/large/61b8bbf4jw1e864ejer18j208c07imxj.jpg" style="box-shadow:none"></p>
 
 <p>在现代化的交通工具没有出现之前，如果要见一个远方的人，需要“千里之行，始于足下”；<br>在电话没有出现之前，如果要联系其他人，需要“鸿雁寄锦，青鸟托书”；<br>在互联网没有出现之前，如果要获得新闻，需要读报纸、看电视、听广播；<br>……</p>
@@ -42,7 +42,7 @@
 <li>Bkpk.me: <a href="http://bkpk.me/programmers-its-time-to-pack-your-bags/" target="_blank">Programmers, It&#39;s Time To Pack Your Bags!</a></li>
 <li>Zapier: <a href="https://zapier.com/blog/how-manage-remote-team/" target="_blank">21 Months In: How to Manage a Remote Team</a></li>
 </ul>
-<p>另外推荐37signals即将出版的新书《<a href="37signals.com/remote">Remote</a>》，相信在37signals的推动下，各个互联网公司会掀起一股“Remote”的风潮。</p>
+<p>另外推荐37signals即将出版的新书《<a href="http://www.37signals.com/remote" target="_blank">Remote</a>》，相信在37signals的推动下，各个互联网公司会掀起一股“Remote”的风潮。</p>
 <p style="text-align:center"><img src="http://img3.douban.com/lpic/s25505835.jpg" style="box-shadow:none"></p>]]></content>
     <category scheme="http://blog.workor.com/tags/思考/" term="思考"/>
   </entry>
